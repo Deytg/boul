@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+nav a {
+    text-decoration: none;
+    color: black;
+    border-bottom: 5px solid black;
+    margin-right: 30px;
+    font-size: 20px;
+}
+nav {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+.t0 {
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 10px;
+}
+.b7 {
+    width: 960px;
+    height: 90px;
+}
+img {
+    display: inline-block;
+}
+.g1 {
+    border-left: 10px dotted black;
+    margin-right: 11px;
+}
+footer {
+    background-color: black;
+    padding: 5px;
+}
+footer p {
+    background-color: white;
+    margin-bottom: 5px;
+}
